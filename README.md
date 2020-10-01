@@ -1,2 +1,2 @@
 # Rstudio
-learning datascience witg R
+learning datascience with R
